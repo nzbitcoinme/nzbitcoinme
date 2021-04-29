@@ -8,3 +8,4 @@
 nzbitcoinme/nzbitcoinme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Hardforking/complete/AIcoin/20trillion coins available/tx1001934191019101918 'alt1 AIcoin forkcomple'(entercode)
